@@ -1,0 +1,7 @@
+Part 1. Reading Assignment: The Database Environment and Development Process (Attached)
+Part 1.A. Review Questions: 1, 2, 3, 4, 5 (Page 44)
+Part 1.B. Problems and Exercises: All problems from 1 to 15 inclusive (Page 45)
+
+Part 2. Reading Assignment: Beginning Database Design Solutions - Chapter01-02 (Attached)
+Part 2.A. Do Exercises 1 to 8 inclusive (Page 22)
+Part 2.B. Do Exercises 1 to 5 inclusive (Page 47)

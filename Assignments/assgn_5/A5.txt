@@ -1,0 +1,15 @@
+PART 1 - READING ASSIGNMENT (Modern Database Management)
+ Ch.4. Logical Database Design and the Relational Model
+
+PART 2 - READING ASSIGNMENT (Beginning MySQL)
+ Ch.4. Designing a Relational Database
+
+PART 3 - READING ASSIGNMENT (Beginning Database Design Solutions)
+ Ch.7. Normalizing Data
+ Ch.8. Designing Databases to Suppor t Software Applications
+
+PART 4 - Do Problems & Exercises 1a, 2a, 4a, 5 from Modern DBMS (Page 195)
+
+PART 5 - Do all the exercises at the end of Chapter 4 (Beginning MySQL)
+
+PART 6 - Do all the exercises at the end of Chapter 7, 8 (Beginning Database Design)
